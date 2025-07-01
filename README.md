@@ -1,10 +1,12 @@
+![Inventory picture](https://github.com/user-attachments/assets/d7c50f38-2215-4996-a350-8c78a685b4fb)
 # Kultra-Mega-Stores-Inventory
-This analysis focuses on inventory of a store that sells office supplies and furniture .
+This analysis focuses on inventory of a store that sells office supplies and furniture
 
-###Project Overview
+###Project Overview!
 This project aims to provide insights into issues bordering on gender inequality in a manufacturing company. By analysing various aspects of the gender related issues such as gender distribution, gender pay gap, promotion and leadership across departments and regions. I seek to identify trends in hiring and promotion, make data driven recommendations and gain a deeper understanding of equity promotion and inclusivity in the workplace.
 
 ###Data Sources
+
 Human Resource Data: The primary dataset used for this analysis is the "KMS Sql Case Study.xlxs" file containing order data from 2009 to 2012. 
 
 ###Tools
